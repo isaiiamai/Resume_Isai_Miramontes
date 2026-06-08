@@ -1,6 +1,6 @@
 # Isai Miramontes | Electrical Engineer
 
-Recent Electrical Engineering graduate passionate about [your main interest, e.g., embedded systems, power electronics, RF design, etc.].
+Recent Electrical Engineering graduate passionate about the research and development of electrical systems. 
 
 ---
 
